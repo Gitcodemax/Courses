@@ -1,2 +1,2 @@
 *.jpg
-**/Python/graficado/env/
+/Python/graficado/env/
